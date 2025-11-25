@@ -1,0 +1,27 @@
+{
+  "overview": "The transcript features two speakers discussing a variety of disconnected topics, ranging from the lingering smell of old beer and conditions for odors to suggestions for restoring health and personal food preferences like tacos al pastor, along with comments on salt pickles with ham and hot cross buns.",
+  "per_speaker": [
+    {
+      "speaker": "Speaker 1",
+      "highlights": [
+        "Describes the lingering stale smell of old beer.",
+        "Suggests that a cold dip can restore health and zest.",
+        "States that tacos al pastor are their favorite food."
+      ]
+    },
+    {
+      "speaker": "Speaker 2",
+      "highlights": [
+        "Explains that heat is required to bring out an odor.",
+        "Mentions that a salt pickle tastes fine with ham.",
+        "Identifies the hot cross bun as a zestful food."
+      ]
+    }
+  ],
+  "key_points": [
+    "Discussion about the stale smell of old beer and how heat can bring out odors.",
+    "A cold dip is suggested as a way to restore health and zest.",
+    "Various food items and pairings are mentioned, including salt pickles with ham, tacos al pastor, and hot cross buns.",
+    "Speaker 1 expresses a personal favorite food."
+  ]
+}

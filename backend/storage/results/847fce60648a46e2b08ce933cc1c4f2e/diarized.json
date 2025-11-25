@@ -1,0 +1,42 @@
+{
+  "language": "en",
+  "duration": null,
+  "turns": [
+    {
+      "speaker": "Speaker 1",
+      "start": 0.0,
+      "end": 4.0,
+      "text": "The stale smell of old beer lingers."
+    },
+    {
+      "speaker": "Speaker 2",
+      "start": 4.0,
+      "end": 7.0,
+      "text": "It takes heat to bring out the odor."
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 7.0,
+      "end": 10.0,
+      "text": "A cold dip restores health and zest."
+    },
+    {
+      "speaker": "Speaker 2",
+      "start": 10.0,
+      "end": 12.0,
+      "text": "A salt pickle tastes fine with ham."
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 12.0,
+      "end": 15.0,
+      "text": "Tacos al pastor are my favorite."
+    },
+    {
+      "speaker": "Speaker 2",
+      "start": 15.0,
+      "end": 18.0,
+      "text": "A zestful food is the hot cross bun."
+    }
+  ]
+}

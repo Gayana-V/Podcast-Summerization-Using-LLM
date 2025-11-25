@@ -1,0 +1,24 @@
+{
+  "language": "en",
+  "duration": null,
+  "turns": [
+    {
+      "speaker": "unknown",
+      "start": 0.0,
+      "end": 5.8,
+      "text": "Good evening everyone. Success is not final. Failure is not fatal. It is the courage to continue that counts."
+    },
+    {
+      "speaker": "unknown",
+      "start": 5.8,
+      "end": 12.3,
+      "text": "No matter how many times you fall, rise again with determination and purpose. Every great achievement begins with a single step."
+    },
+    {
+      "speaker": "unknown",
+      "start": 12.3,
+      "end": 15.6,
+      "text": "So take that step today and move forward with confidence."
+    }
+  ]
+}

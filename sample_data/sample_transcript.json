@@ -1,0 +1,44 @@
+{
+  "language": "en",
+  "duration": 115.2,
+  "turns": [
+    {
+      "speaker": "Speaker 1",
+      "start": 0.0,
+      "end": 8.4,
+      "text": "Welcome back to Maker Waves, the show where we explore creative product stories. I'm Alex, and today we're diving into sustainable audio gear."
+    },
+    {
+      "speaker": "Speaker 2",
+      "start": 8.4,
+      "end": 20.7,
+      "text": "Thanks, Alex. I'm Jamie, founder of LoopLabs. We redesign consumer tech with recycled materials without compromising sound quality."
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 20.7,
+      "end": 38.5,
+      "text": "LoopLabs just launched a modular headset. Can you share how the design came together and what challenges you faced in prototyping?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "start": 38.5,
+      "end": 62.1,
+      "text": "The big hurdle was sourcing consistent recycled plastics. We partnered with music festivals to recover waste and invested in a new molding process that keeps the acoustics tight."
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 62.1,
+      "end": 87.3,
+      "text": "That's amazing. You're also running a community repair program. How does that support LoopLabs' sustainability goals?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "start": 87.3,
+      "end": 115.2,
+      "text": "Every headset ships with a repair manual, and we host monthly clinics. We want customers to feel empowered to fix components, extending the product's life and closing the loop."
+    }
+  ]
+}
+
+

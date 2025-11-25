@@ -1,0 +1,24 @@
+{
+  "overview": "The transcript features two speakers delivering an uplifting and motivational message. They emphasize the importance of perseverance, resilience in the face of failure, and the courage to take the first step towards any goal. The core message is that neither success nor failure is permanent, and continuous effort with determination is what truly counts.",
+  "per_speaker": [
+    {
+      "speaker": "Speaker 1",
+      "highlights": [
+        "Introduces a quote about courage being more important than the finality of success or failure.",
+        "Encourages listeners to take the first step today and move forward with confidence."
+      ]
+    },
+    {
+      "speaker": "Speaker 2",
+      "highlights": [
+        "Advocates for rising with determination and purpose after setbacks.",
+        "Stresses that all great achievements originate from a single initial step."
+      ]
+    }
+  ],
+  "key_points": [
+    "Success is not final, and failure is not fatal; courage to continue is key.",
+    "Resilience is crucial: rise again with determination after falling.",
+    "Every great achievement begins with a single, confident step."
+  ]
+}
